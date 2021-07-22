@@ -1,2 +1,2 @@
 # blog
-un blog para el curso de git y github de platzi
+<h1>Hola Mundo!</h1>
